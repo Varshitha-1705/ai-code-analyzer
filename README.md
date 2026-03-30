@@ -1,4 +1,4 @@
-# ai-code-analyzer
+# AI Code Analyzer
 
 ## Overview
 
@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Varshitha-1705/ai-code-analyzer
+   git clone https://github.com/altamsh04/ai-code-analyzer.git
    cd ai-code-analyzer
    ```
    
@@ -65,6 +65,9 @@ To run the project locally, follow these steps:
 3. Click the "Send Code" button to receive results.
 4. Review the output for insights and recommendations.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
